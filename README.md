@@ -2,7 +2,7 @@
 
 By Bhimsen Kumar
 
-Take a look at live version
+Take a look at live version : https://bhimsen9471.github.io/Sorting/
 
 A web application showcasing the inner workings of sorting algorithms.
 
@@ -28,4 +28,4 @@ Features:
 
  
 
-https://bhimsen9471.github.io/Sorting/
+
